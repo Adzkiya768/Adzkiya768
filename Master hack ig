@@ -1,0 +1,6 @@
+$pkg install git
+$pkg install python2
+$pkg install clone
+$pkg git clone https://github.com/Adzkiya768/MASTER hack ig
+CD MASTER hack ig
+Ls
